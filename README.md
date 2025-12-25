@@ -1,3 +1,2 @@
 # Amazon-clone
-This is my first project
-hello 
+This is amazon clone 
