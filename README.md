@@ -1,2 +1,2 @@
 # Amazon-clone
-This is amozon clone my frist project. 
+This is amazon clone my frist project. 
